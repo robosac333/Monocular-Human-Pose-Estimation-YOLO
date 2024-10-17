@@ -12,6 +12,8 @@ The Phase0_Initial folder consists of the following:
 2. Detection.pdf
 3. ImageProcessor.pdf
 4. Utils.pdf
+5. Project Proposal.pdf
+6. Software Plan.pdf
 
 (These are the class diagrams of the classes we are planning to implement. They describe the various functions and attributes present in the classes.)
 
