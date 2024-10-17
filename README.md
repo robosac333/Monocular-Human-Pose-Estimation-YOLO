@@ -17,3 +17,7 @@ The Phase0_Initial folder consists of the following:
 
 The QuadChart.pdf file consists of the QuadChart of the project. Again this is available in the Phase0_Initial folder. We have also uploaded a short 
 video describing the project.
+
+You may find the link for the Initial Product Backlog [here](https://docs.google.com/spreadsheets/d/1ghUaM4df8IqF__fV75jPtsduJesjbfTFdYCTwERmi4M/edit?usp=sharing)
+
+Link to the Project Overview Video can be found [here](https://youtu.be/ejj0KuOoPAQ)
