@@ -8,12 +8,14 @@ This GitHub Repo consists of the necessary documents and diagrams associated wit
 
 The Phase0_Initial folder consists of the following:
 
-1. YoloDetector.pdf
-2. Detection.pdf
-3. ImageProcessor.pdf
-4. Utils.pdf
-5. Project Proposal.pdf
-6. Software Plan.pdf
+1. YoloDetector Class UML
+2. Detection Class UML
+3. ImageProcessor Class UML
+4. Utils Class UML
+5. Activity Diagram
+6. Project Proposal
+7. Software Plan
+8. Quad Chart
 
 (These are the class diagrams of the classes we are planning to implement. They describe the various functions and attributes present in the classes.)
 
