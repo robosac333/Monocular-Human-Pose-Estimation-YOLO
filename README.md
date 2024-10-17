@@ -15,8 +15,7 @@ The Phase0_Initial folder consists of the following:
 
 (These are the class diagrams of the classes we are planning to implement. They describe the various functions and attributes present in the classes.)
 
-The QuadChart.pdf file consists of the QuadChart of the project. Again this is available in the Phase0_Initial folder. We have also uploaded a short 
-video describing the project.
+The QuadChart.pdf file consists of the QuadChart of the project. Again this is available in the Phase0_Initial folder along with the Project Proposal and Software Plan for the Project.
 
 You may find the link for the Initial Product Backlog [here](https://docs.google.com/spreadsheets/d/1ghUaM4df8IqF__fV75jPtsduJesjbfTFdYCTwERmi4M/edit?usp=sharing)
 
